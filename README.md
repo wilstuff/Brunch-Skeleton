@@ -1,4 +1,4 @@
-Brunch Skeleton
+Simple Brunch skeleton
 ===============
 
 Bootstrap 3, SASS/SCSS, Stylus, Jade
