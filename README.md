@@ -24,7 +24,7 @@ Bootstrap 3, SASS/SCSS, Stylus, Jade
 ### Build for production
 > ~ brunch build --production
 
-## Good Brackets extentions
+## Brackets extentions
 - **Beautify**
 *Format JavaScript, HTML, and CSS files (Drew Hamlett - <https://github.com/drewhjava/brackets-beautify>)* 
 - **Brackets Stylus**
