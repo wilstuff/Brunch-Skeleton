@@ -1,0 +1,21 @@
+{
+	"name": "skeleton-bootstrap-scss-stylus-jade",
+	"version": "1",
+	"description": "Brunch skeleton with Bootstrap3, SCSS, Stylus, Jade",
+	"dependencies": {
+		"jade": "^1.3.1",
+		"imageoptmizer-brunch": "0.0.4",
+		"jade-pages-brunch": "^1.7.4",
+		"javascript-brunch": ">= 1.0 < 1.8",
+		"css-brunch": ">= 1.0 < 1.8",
+		"uglify-js-brunch": ">= 1.0 < 1.8",
+		"clean-css-brunch": ">= 1.0 < 1.8",
+		"auto-reload-brunch": ">= 1.0 < 1.8",
+		"sass-brunch": ">= 1.0 < 1.8",
+		"stylus-brunch": ">= 1.0 < 1.8"
+	},
+	"scripts": {
+		"start": "brunch watch --server -e DEV"
+	},
+	"repository": {}
+}
