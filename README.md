@@ -24,3 +24,7 @@ Bootstrap 3, SASS/SCSS, Stylus, Jade
 ### Build for production
 
 > ~ brunch build --production
+
+## Good Brackets extentions
+- Indent Guides
+- 
