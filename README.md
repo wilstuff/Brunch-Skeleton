@@ -22,9 +22,18 @@ Bootstrap 3, SASS/SCSS, Stylus, Jade
 (or ~ brunch watch --server -e DEV)
   
 ### Build for production
-
 > ~ brunch build --production
 
 ## Good Brackets extentions
-- Indent Guides
-- 
+- **Beautify**
+*Format JavaScript, HTML, and CSS files (Drew Hamlett - <https://github.com/drewhjava/brackets-beautify>)* 
+- **Coffeescript Lint Extension for Brackets**
+*Coffeescript Lint Extension for Brackets (Ingo Richter - <https://github.com/ingorichter/brackets-coffeelint>)*
+- **Indent Guides**
+*Show indent guides in the code editor (Lance Campbell - <https://github.com/lkcampbell/brackets-indent-guides>)*
+- **Jade (Official Plugin)**
+*Add first class support for jade (including syntax highlighting). This module is maintained by the maintainer of jade. (Forbes Lindesay - <https://github.com/ForbesLindesay/jade-brackets>)*
+- **JSHint**
+*Adds JSHint support to Brackets. (Raymond Camden - <https://github.com/cfjedimaster/brackets-jshint>)*
+- **JSONLint Extension for Brackets**
+*Mots-clés: jsonlint brackets javascript linting codequality inspection (Ingo Richter - <https://github.com/ingorichter>)*
