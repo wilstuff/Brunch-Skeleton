@@ -7,21 +7,20 @@ Bootstrap 3, SASS/SCSS, Stylus, Jade
 - Put any type (SASS, SCSS, Stylus, CSS) of style files in /dev/stylesheetes/. They will be compiled in /public/css/
 - Put your jade files in /dev/jade-templates/. They will be compiled at the /public/ root.
 
-  Install
-  ---------------
-  #~ npm install
+## Using
+
+### Install
+> ~ npm install
   
   
-  Add module
-  ---------------
-  #~ npm install --save <module_name>
+### Add module
+> ~ npm install --save <module_name>
   
   
-  Workflow (DEV)
-  ---------------
-  #~ npm start
-  (or #~ brunch watch --server -e DEV)
+### Workflow (DEV)
+> ~ npm start
+(or ~ brunch watch --server -e DEV)
   
-  Build for production
-  ---------------
-  #~ brunch build --production
+### Build for production
+
+> ~ brunch build --production
