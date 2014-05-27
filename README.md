@@ -27,6 +27,8 @@ Bootstrap 3, SASS/SCSS, Stylus, Jade
 ## Good Brackets extentions
 - **Beautify**
 *Format JavaScript, HTML, and CSS files (Drew Hamlett - <https://github.com/drewhjava/brackets-beautify>)* 
+- **Brackets Stylus**
+*An extension to add Stylus support to Brackets (GarthDB - <https://github.com/GarthDB/Brackets-Stylus/archive/master.zip>)*
 - **Coffeescript Lint Extension for Brackets**
 *Coffeescript Lint Extension for Brackets (Ingo Richter - <https://github.com/ingorichter/brackets-coffeelint>)*
 - **Indent Guides**
